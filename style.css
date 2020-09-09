@@ -48,3 +48,20 @@ footer {
   li a:hover {
     background-color: #111;
   }
+
+
+
+
+
+
+
+
+
+
+
+  ::selection {
+    background: #a8d1ff; /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+    background: #a8d1ff; /* Gecko Browsers */
+  }
